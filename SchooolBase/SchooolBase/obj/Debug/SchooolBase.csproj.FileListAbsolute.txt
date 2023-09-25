@@ -1,0 +1,16 @@
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.csproj.AssemblyReference.cache
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\App.g.cs
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase_MarkupCompile.cache
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase_MarkupCompile.lref
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\Greetings.g.cs
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\bin\Debug\SchooolBase.exe.config
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\bin\Debug\SchooolBase.exe
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\bin\Debug\SchooolBase.pdb
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\Greetings.baml
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.g.resources
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.Properties.Resources.resources
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.csproj.GenerateResource.cache
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.csproj.CoreCompileInputs.cache
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.exe
+C:\Users\Roma\source\repos\SchooolBase\SchooolBase\obj\Debug\SchooolBase.pdb
